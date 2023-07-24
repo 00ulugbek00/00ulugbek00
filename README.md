@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a  target="_blank">Ulugbek</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00ulugbek00)](https://github.com/00ulugbek00/github-readme-stats)
+
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
