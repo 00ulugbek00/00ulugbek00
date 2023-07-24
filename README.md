@@ -2,9 +2,7 @@
 <h1 align="center">Hi there, I'm <a  target="_blank">Ulugbek</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?00ulugbek00=DenverCoder1)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ulugbek00)](https://github.com/00ulugbek00/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/00ulugbek00/00ulugbek00/edit/main/README.md)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=00ulugbek00)](https://github.com/00ulugbek00/leetcode-stats)
 
 
 <!--
