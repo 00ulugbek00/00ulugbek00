@@ -3,6 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <img src="https://drycode.ru/wp-content/uploads/2023/03/python-hello-world.png](https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fsun3-11.userapi.com%2FolKgYspFR_nYWBkTunZwUH8Z6fQweOmHZHjnvg%2FmYhmDhQbYIw.jpg&lr=20100&ogl_url=https%3A%2F%2Fsun3-11.userapi.com%2FolKgYspFR_nYWBkTunZwUH8Z6fQweOmHZHjnvg%2FmYhmDhQbYIw.jpg&pos=2&rlt_url=https%3A%2F%2Fcdn-edge.kwork.ru%2Fpics%2Ft3%2F05%2F21311018-1655653505.jpg&rpt=simage&text=python">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?00ulugbek00r=DenverCoder1)](https://git.io/streak-stats)
 
 
 
