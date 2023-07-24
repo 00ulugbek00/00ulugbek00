@@ -2,12 +2,7 @@
 <h1 align="center">Hi there, I'm <a  target="_blank">Ulugbek</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?00ulugbek00=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?00ulugbek00r=DenverCoder1)](https://git.io/streak-stats)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
-![](https://komarev.com/ghpvc/?username=00ulubek00)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=00ulugbek00)
+
 
 
 <!--
